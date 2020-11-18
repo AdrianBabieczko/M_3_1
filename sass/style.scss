@@ -1,0 +1,14 @@
+.navbar-brand {
+    text-transform: uppercase;
+}
+
+/* Slider */
+
+.carousel-inner, .carousel-item {
+    height: 100vh;
+  }
+  
+  .carousel-item img {
+    height: 100%;
+    object-fit: cover;
+  }
